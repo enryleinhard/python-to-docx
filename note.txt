@@ -1,0 +1,6 @@
+https://automatetheboringstuff.com/chapter13/
+
+pip install python-docx
+pip install flask
+pip install flask_restful
+pip install flask_cors
